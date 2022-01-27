@@ -9,11 +9,6 @@ use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\console\ConsoleCommandSender;
 use pocketmine\utils\TextFormat;
-use pocketmine\permission\Permission;
-use pocketmine\permission\PermissionAttachment;
-use pocketmine\permission\PermissionAttachmentInfo;
-use pocketmine\permission\PermissionManager;
-
 use EasyUI\element\Dropdown;
 use EasyUI\element\Input;
 use EasyUI\element\Label;
