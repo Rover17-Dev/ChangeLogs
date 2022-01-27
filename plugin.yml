@@ -1,0 +1,13 @@
+---
+name: ChangeLogs
+version: 0.0.1
+main: Rover17\ChangeLogs\Main
+api: 4.0.0
+commands:
+  changelogs:
+    description: Change Logs command
+    permission: changelogs.cmd
+permissions:
+  changelogs.cmd:
+    description: Permission to use changelogs command
+    default: true
