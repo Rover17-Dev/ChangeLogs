@@ -1,6 +1,6 @@
 ---
 name: ChangeLogs
-version: 0.0.1
+version: 1.0.0-beta
 main: Rover17\ChangeLogs\Main
 api: 4.0.0
 commands:
