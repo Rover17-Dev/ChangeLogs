@@ -29,8 +29,6 @@ class Main extends PluginBase{
 		$this->saveDefaultConfig();
 		$this->config = $this->getConfig()->getAll();
 		
-		
-
 		}
 		
 	
